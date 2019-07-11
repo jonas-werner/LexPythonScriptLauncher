@@ -1,6 +1,3 @@
-# https://forum.omz-software.com/topic/4165/amazon-lex-using-audiorecorder/7
-
-# from objc_util import *
 import boto3
 import os
 import uuid
